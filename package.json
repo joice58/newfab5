@@ -1,0 +1,12 @@
+{
+  "name": "repose-residence-recreation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-contained Repose Residence website recreation",
+  "scripts": {
+    "start": "node preview-server.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
